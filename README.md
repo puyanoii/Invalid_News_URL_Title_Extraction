@@ -7,6 +7,6 @@ There are two common patterns in invalid URLs that contain information about the
 
 An example of invalid URL: https://www.dailyconservative.com/poll-do-you-stand-with-sarah-sanders?fbclid=IwAR3Wdwducv0S4TAaDHL7ROG7ZemVsdcMLxCJGNb63OElIBUQ9e7kTQdCthI 
 
-Title should be: "pool do you stand with sarah sanders" in the article
+The title of the news article should be: "pool do you stand with sarah sanders" in the article
 
 We use urllib.parse and regex to extract keywords of titles from the URLs
