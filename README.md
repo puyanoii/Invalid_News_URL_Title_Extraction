@@ -1,4 +1,4 @@
-# URL_Title_Extraction
+# Invalid_URL_Title_Extraction
 This script can be used to extract titles from invalid news URLs
 
 There are two commen pattern in invalid URLs that contain information about the title of the article:
